@@ -1,0 +1,109 @@
+{
+    "main": {
+        "name": "Akhona Stofile",
+        "description": "I'm a web development engineer and I use react and python to develop pages...",
+        "image": "AK.jpg",
+        "bio": "A junior Software developer with 1 year of experience in Spring framework, java, front-end and back-end application programming, Linux systems (SUSE enterprise and Ubuntu), developing and leveraging of databases using PostgreSQL and SQL. A personable, communicative, team oriented junior developer with knowledge of objectoriented programming languages. A 2020 software development graduate of Tshwane University of Technology.",
+        "contactmessage": "Contact me using the details below:.",
+        "email":"akhonastofile@gmail.com",
+        "phone": "078-635-7688",
+        "github": "https://github.com/xander-TuT",
+        "project": "https://github.com/xander-TuT",
+        "address": {
+            "street": "(12th avenue Alexandra township)",
+            "city": "(Johannesburg)",
+            "code": "(2090)"
+        },
+        "website": "https://github.com/",
+        "resumedownload": "https://github.com/",
+        "social": [
+           
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/",
+                "className": "fa fa-linkedin"
+            },
+          
+            {
+                "name": "github",
+                "url": "https://github.com/xander-TuT",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage": "My key skills obtained are as follows: Java Core, C++, Basic HTML5 and CSS, SQL and PL/SQL, React JS, Android Application Development, Spring Boot and Spring MVC, Docker and Kubernetes, Apache Tomcat, Jboss WildFly, Hibernate, JPA, JSP, Perform Code Reviews using Sonarqube",
+        "education": [
+            {
+                "school": "Tshwane University of Technology",
+                "degree": "Information Technology",
+                "graduated": "April 2020"
+               
+            },
+            {
+                "school": "Minerva High",
+                "NSC": "Grade 12",
+                "graduated": "March 2008"
+               
+            }
+        ],
+        "work": [
+            {
+                "company": "Optiflex",
+                "title": "Software Developer Intern",
+                "years": "01 August 2019 - 31 July 2020",
+                "description": "Work to put an end to pro-pureblood laws through negotiation, petitions, and enforcing and creating fair laws for the wizarding community.s"
+            }
+        ],
+        "skills": [
+            {
+                "name": "Python",
+                "level": "10%"
+            },
+            {
+                "name": "JAVA",
+                "level": "60%"
+            },
+            {
+                "name": "ReactJs",
+                "level": "50%"
+            },
+            {
+                "name": "CSS",
+                "level": "90%"
+            },
+            {
+                "name": "C++",
+                "level": "80%"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [
+            {
+                "title": "Gryffindor Project",
+                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
+                "image": "project1.jpg",
+                "url": "https://www.google.com"
+            },
+            {
+                "title": "Gryffindor Project",
+                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
+                "image": "project2.jpg",
+                "url": "https://www.google.com"
+            },
+            {
+                "title": "Gryffindor Project",
+                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
+                "image": "project3.jpg",
+                "url": "https://www.google.com"
+            },
+            {
+                "title": "Gryffindor Project",
+                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
+                "image": "project4.jpg",
+                "url": "https://www.google.com"
+            }
+        ]
+    }
+}
